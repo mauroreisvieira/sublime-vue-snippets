@@ -1,10 +1,11 @@
 # Vue Sublime Snippets
 
-<p align="center"><img src="assets/vue-logo.png" width="360"/></p>
+<p align="center"><img src="assets/vue-logo.png" width="300"/></p>
 
 ## Installation
 
-...
+Open Package Control - (Ctrl or ⌘) + ⇧ + P
+Type `Vue Snippets`
 
 
 ## Snippets
@@ -52,6 +53,9 @@
 | `vgetters`       | Vuex Getter                    |
 | `vmutations`     | Vuex Mutations                  |
 
+
+## Thanks
+Special thank you to [Sarah Drasner](https://twitter.com/sarah_edo), for creating the following repository [vue-vscode-snippet](https://github.com/sdras/vue-vscode-snippets).
 
 ## License
 
