@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<img :src="${1:fileName}" alt="${2:altText}"/>
+<img :src="${1:fileName}" title="${2:titleText}" alt="${2:altText}"/>
 ]]></content>
     <tabTrigger>vsrc</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->

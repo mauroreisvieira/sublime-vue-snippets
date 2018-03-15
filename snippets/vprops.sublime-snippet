@@ -1,8 +1,8 @@
 nippet>
     <content><![CDATA[
-  $1: {
+$1: {
     type: $2
-  },
+}
 ]]></content>
     <tabTrigger>vprops</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->

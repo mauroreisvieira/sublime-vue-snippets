@@ -1,7 +1,6 @@
 nippet>
     <content><![CDATA[
 watch: {
-    // whenever question changes, this function will run
     $1: function ($2) {
         $3
     }
