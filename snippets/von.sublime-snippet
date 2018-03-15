@@ -1,4 +1,4 @@
-snippet>
+<snippet>
     <content><![CDATA[
 @click="$1"
 ]]></content>

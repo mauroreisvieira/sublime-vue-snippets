@@ -1,4 +1,4 @@
-nippet>
+<snippet>
     <content><![CDATA[
 watch: {
     $1: function ($2) {
