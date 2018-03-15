@@ -1,12 +1,12 @@
 {
   "author": "Mauro Reis Vieira <mauroreisvieira@gmail.com>",
   "name": "vue-sublime-snippets",
-  "displayName": "Vue Sublime Text Snippets",
+  "displayName": "Vue Sublime Snippets",
   "description": "Sippets to help you in the development of projects.",
   "icon": "assets/vue-logo.png",
   "license": "MIT",
   "version": "1.0.0",
-  "repository": "https://bitbucket.org/mauroreisvieira/sublime-vue-snippets",
+  "repository": "https://github.com/maurovieirareis/sublime-vue-snippets",
   "bugs": {
     "url": "https://github.com/maurovieirareis/sublime-vue-snippets/issues"
   },
