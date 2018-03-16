@@ -1,21 +1,21 @@
 <snippet>
     <content><![CDATA[
-// define a mixin object
-var myMixin = {
+var $0 = {
   created: function () {
     this.hello()
   },
   methods: {
-    hello: function () {
-      console.log('hello from mixin!')
+    $1: function () {
+      console.log('Hello Mixin!');
     }
   }
 }
-// define a component that uses this mixin
+
 var Component = Vue.extend({
   mixins: [myMixin]
 })
-var component = new Component() // -> "hello from mixin!"
+
+var component = new Component();
 ]]></content>
     <tabTrigger>vmixin</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->

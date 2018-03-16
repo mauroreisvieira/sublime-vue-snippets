@@ -13,11 +13,10 @@
     },
     methods: {
       ${3}
-    },
+    }
   }
 </script>
-<style scoped>
-</style>
+<style scoped></style>
 ]]></content>
     <tabTrigger>vbase</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->

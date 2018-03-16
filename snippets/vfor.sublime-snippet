@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<div v-for="$1 in $2" :key="$1.id">
-  {{ $1 }}
+<div v-for="$0 in $1" :key="$0.${2:id}">
+  {{ $0 }}
 </div>
 ]]></content>
     <tabTrigger>vfor</tabTrigger>

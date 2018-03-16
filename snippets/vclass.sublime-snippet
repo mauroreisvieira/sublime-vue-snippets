@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<${1:div} :class="{ ${2:className}: ${3:data} }"></${1:div}>
+<${0:div} :class="{ ${1:className}: ${2:data} }"></${0:div}>
 ]]></content>
     <tabTrigger>vclass</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->

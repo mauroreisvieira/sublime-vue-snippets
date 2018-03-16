@@ -2,7 +2,7 @@
     <content><![CDATA[
 destroyed: function () {
   this.$nextTick(function () {
-    doSomething()
+    $0
   })
 }
 ]]></content>

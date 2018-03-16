@@ -2,7 +2,7 @@
     <content><![CDATA[
 mounted: function () {
   this.$nextTick(function () {
-    doSomething()
+    $0
   })
 }
 ]]></content>

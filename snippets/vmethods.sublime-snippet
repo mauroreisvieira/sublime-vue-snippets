@@ -1,9 +1,8 @@
 <snippet>
     <content><![CDATA[
-// in component
 methods: {
-  reverseMessage: function () {
-    return this.message.split('').reverse().join('')
+  $0: function () {
+    return $1;
   }
 }
 ]]></content>

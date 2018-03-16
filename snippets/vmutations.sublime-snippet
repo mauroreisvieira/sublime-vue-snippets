@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 mutations: {
-  updateValue: (state, payload) => {
-    state.value = payload;
+  $0: (${1: param}) => {
+    return $2;
   }
 }
 ]]></content>

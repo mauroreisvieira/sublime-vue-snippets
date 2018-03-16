@@ -1,9 +1,11 @@
 <snippet>
     <content><![CDATA[
-$1: {
-    type: $2,
-    default: $3,
-    required: false
+props: {
+  ${0: propName}: {
+    type: ${1:Number},
+    default: ${2: ""},
+    required: ${3:false}
+  }
 }
 ]]></content>
     <tabTrigger>vprops</tabTrigger>

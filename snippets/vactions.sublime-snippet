@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 actions: {
-  updateValue({commit}, payload) {
-    commit(updateValue, payload);
+  ${0:nameAction} (${1: param}) {
+    return $2;
   }
 }
 ]]></content>

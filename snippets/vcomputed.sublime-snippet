@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 computed: {
-  now: function () {
-    return Date.now()
+  ${0:actionName}: function () {
+    return $1;
   }
 }
 ]]></content>
