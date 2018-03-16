@@ -2,11 +2,16 @@
 
 <p align="center"><img src="assets/vue-logo.png" width="300"/></p>
 
+## Introduction
+
+[Vue](https://vuejs.org/) is a progressive javascript framework for building user interfaces.
+This repository was built to help developers in their day-to-day development of components in Vue also these snippets were developed only for **version 2** of Vue framework.
+
 ## Installation
 
-- Open Package Control - (Ctrl or ⌘) + ⇧ + P
-- Type `Vue Snippets`
-
+1. Open Package Control - (Ctrl or ⌘) + ⇧ + P
+2. Type `Vue Snippets` and press Enter
+3. Ready to use 🎉
 
 ## Snippets
 
@@ -44,6 +49,9 @@
 | `vmounted` | Vue mounted |
 | `vprops` | Props with type and default |
 | `vwatch` | Vue watcher with new and old value args |
+| `vdispatch` | Dispatch to Vuex store in methods for action |
+| `vinc` | incrementer |
+| `vdec` | decrementer |
 
 ### Vuex
 
