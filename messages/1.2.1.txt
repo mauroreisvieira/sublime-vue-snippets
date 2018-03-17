@@ -1,0 +1,10 @@
+Vue Snippets Updates 🎉🎉🎉
+
+v1.2.1 👏👏
+
+⏤ Added description in snippets.
+⏤ Updated snippet to limit where the snippet will trigger.
+
+Improvements or suggestions? Contribute on GitHub!
+
+Follow me twitter.com/@mauroreisvieira

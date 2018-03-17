@@ -5,7 +5,7 @@
   "description": "Sippets to help you in the development of projects.",
   "icon": "assets/vue-logo.png",
   "license": "MIT",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "https://github.com/maurovieirareis/sublime-vue-snippets",
   "bugs": {
     "url": "https://github.com/maurovieirareis/sublime-vue-snippets/issues"
