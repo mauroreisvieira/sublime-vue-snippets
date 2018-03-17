@@ -5,6 +5,6 @@
 </div>
 ]]></content>
     <tabTrigger>vshow</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.vue</scope> -->
+    <scope>source.vue</scope>
+    <description>vue show condition</description>
 </snippet>

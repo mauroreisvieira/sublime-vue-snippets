@@ -4,7 +4,7 @@ ${0:actionName}() {
   this.$store.dispatch('${0:actionName}', ${1:payload})"
 }
 ]]></content>
-<tabTrigger>vdispatch</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.vue</scope> -->
+    <tabTrigger>vdispatch</tabTrigger>
+    <scope>source.vue</scope>
+    <description>vue component methods options that dispatch an action</description>
 </snippet>
