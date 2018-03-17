@@ -1,0 +1,12 @@
+Vue Snippets Updates 🎉🎉🎉
+
+v1.1.0 🤩
+
+⏤ Fixed tag in vwatch
+⏤ Fixed tag in vprops
+⏤ Fixed tagvwatch
+⏤ Added default and required in vprops
+
+Improvements or suggestions? Contribute on GitHub!
+
+Follow me twitter.com/@mauroreisvieira
