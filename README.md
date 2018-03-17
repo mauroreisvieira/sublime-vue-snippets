@@ -9,9 +9,15 @@ This repository was built to help developers in their day-to-day development of 
 
 ## Installation
 
+**With Package Control:**
 1. Open Package Control - (Ctrl or ⌘) + ⇧ + P
 2. Type `Vue Snippets` and press Enter
 3. Ready to use 🎉
+
+**Manually:**
+1. Download latest release and unzip. it into your Packages folder
+2. Go to Sublime Text → Preferences → Browse Packages
+3. Move folder to inside, start using...
 
 ## Snippets
 
