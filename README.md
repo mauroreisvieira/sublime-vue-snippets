@@ -9,7 +9,7 @@ This repository was built to help developers in their day-to-day development of 
 
 ## Installation
 
-**With Package Control:**
+**With Package Control:** _(NOT AVAILABLE YET)_
 1. Open Package Control - (Ctrl or ⌘) + ⇧ + P
 2. Type `Vue Snippets` and press Enter
 3. Ready to use 🎉
