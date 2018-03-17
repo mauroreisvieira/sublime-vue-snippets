@@ -5,9 +5,9 @@ Look at README file for up-to-date instructions.
 These snippets are consistent with the latest stable release of Vue and its
 documentation, but some particularities are explained in the README file.
 
-The home page of the project can be found here :
+The home page of the project can be found here:
 https://github.com/maurovieirareis/sublime-vue-snippets
 
 Improvements or suggestions? Contribute on GitHub!
 
-Tweets at twitter.com/@mauroreisvieira
+Follow me twitter.com/@mauroreisvieira

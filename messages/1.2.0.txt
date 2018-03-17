@@ -1,0 +1,12 @@
+Vue Snippets Updates 🎉🎉🎉
+
+v1.2.0 🔥🔥
+
+⏤ Fixed indentation for 2 tabs.
+⏤ Added vdispatch snippet.
+⏤ Added vinc snippet.
+⏤ Added vdec snippet.
+
+Improvements or suggestions? Contribute on GitHub!
+
+Follow me twitter.com/@mauroreisvieira
